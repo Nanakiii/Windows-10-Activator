@@ -1,6 +1,6 @@
 # Windows-10-Activator
 
-Den Text aus der "Windows 10 Activator.bat" als .bat speichern oder die repo downloaden. Ganz einfach ;)
+Den Text aus der "Windows 10 Activator.bat" als .bat speichern und ausführen oder die repo downloaden. Ganz einfach ;)
 
 Save the Text from "Windows 10 Activator.bat" as a .bat file or Download this repo and run it. Simple ;)
 
